@@ -235,6 +235,6 @@ This project is open source under the MIT License - see the [LICENSE](LICENSE) f
 
 ## 🙏 Acknowledgments
 
-- [Nuxt.js](https://nuxt.com/) - Excellent full-stack Vue framework
+- [mmk.js](https://mmk.com/) - Excellent full-stack Vue framework
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript framework
 - All developers who contribute to the open source community
